@@ -48,14 +48,7 @@
     },
     "footer": {
         "type": "Footer",
-        "primaryLinks": [
-            {
-                "type": "Link",
-                "label": "Info",
-                "url": "/info",
-                "altText": ""
-            }
-        ],
+        "primaryLinks": [],
         "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
         "styles": {
             "self": {
