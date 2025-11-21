@@ -63,7 +63,7 @@ sections:
       - type: Label
         label: SalesForce *Health Cloud
       - type: Label
-        label: Netlify
+        label: VOIP
       - type: Label
         label: Pancakes
       - type: Label
