@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: "I'M A SOLUTIONS ANALYST WHO KINDA TURNS  COMPLEX BUSINESS CHALLENGES INTO STREAMLINED,\_SCALABLE TECHNOLOGY SOLUTIONS.."
+    title: "I'M A SOLUTIONS ANALYST WHO KINDA TURNS COMPLEX BUSINESS CHALLENGES INTO STREAMLINED,\_SCALABLE TECHNOLOGY SOLUTIONS.."
     subtitle: >-
       Seven years of experience implementing enterprise platforms, optimizing
       workflows, and collaborating with stakeholders from executives to end
