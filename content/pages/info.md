@@ -67,7 +67,7 @@ sections:
       - type: Label
         label: Pancakes
       - type: Label
-        label: C++
+        label: Problem Solving
       - type: Label
         label: Swift
   - type: DividerSection
