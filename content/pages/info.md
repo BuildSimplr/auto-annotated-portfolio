@@ -70,8 +70,6 @@ sections:
       - type: Label
         label: VOIP
       - type: Label
-        label: Pancakes
-      - type: Label
         label: Problem Solving
       - type: Label
         label: Learning SQL
