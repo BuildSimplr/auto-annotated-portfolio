@@ -38,8 +38,7 @@ sections:
         textAlign: left
     type: HeroSection
     actions: []
-    text: |
-      Teamwork Makes the Dream Work! 
+    text: ''
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
