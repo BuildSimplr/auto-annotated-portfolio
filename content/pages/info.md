@@ -14,17 +14,17 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      > Hi! My name I'm Ashley and I am a Problem Solver or a Solutions Analyst
-      from 9 to 5 est. I help teams streamline workflows, optimize processes,
-      and achieve their goals through strategic problem-solving. Think of me as
-      the teammate who helps connect strategy to execution, like the '96 Bulls,
-      Kobe & Shaq, or LeBron FINALLY  making a couple championship runs. All
-      required individual talent and seamless teamwork. I bring that same
-      collaborative approach to every project.
+      ### Hi! My name I'm Ashley and I am a Problem Solver or a Solutions
+      Analyst from 9 to 5 est. I help teams streamline workflows, optimize
+      processes, and achieve their goals through strategic problem-solving.
+      Think of me as the teammate who helps connect strategy to execution, like
+      the '96 Bulls, Kobe & Shaq, or LeBron FINALLY  making a couple
+      championship runs. All required individual talent and seamless teamwork. I
+      bring that same collaborative approach to every project.
 
 
-      > **When I'm not diving into workflows and requirements, I'm probably
-      watching sports or exploring new coffee spots!**
+      ### When I'm not diving into workflows and requirements, I'm probably
+      watching sports or exploring new coffee spots!
 
     media:
       type: ImageBlock
