@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: "I'M A SOLUTIONS ANALYST WHO TURNS sometime COMPLEX BUSINESS CHALLENGES INTO STREAMLINED,\_SCALABLE TECHNOLOGY SOLUTIONS.."
+    title: "I'M A SOLUTIONS ANALYST WHO KINDA TURNS  COMPLEX BUSINESS CHALLENGES INTO STREAMLINED,\_SCALABLE TECHNOLOGY SOLUTIONS.."
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
       the hard work I’ve done in the past few years. Once you’re impressed, you
