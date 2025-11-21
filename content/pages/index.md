@@ -36,7 +36,15 @@ sections:
         flexDirection: row-reverse
         textAlign: left
     type: HeroSection
-    actions: []
+    actions:
+      - type: Link
+        label: Learn more
+        altText: ''
+        url: 'https://www.linkedin.com/in/ashley-d-2ab558203/'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
     text: ''
   - colors: colors-f
     type: FeaturedProjectsSection
