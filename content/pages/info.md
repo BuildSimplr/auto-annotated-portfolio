@@ -56,6 +56,8 @@ sections:
     items:
       - type: Label
         label: AWS
+        url: >-
+          https://cp.certmetrics.com/amazon/en/public/verify/credential/fb928bbdf9be449bbf270b962758c151
       - type: Label
         label: React
       - type: Label
