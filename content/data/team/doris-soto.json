@@ -1,10 +1,10 @@
 {
     "type": "Person",
-    "firstName": "Doris",
-    "lastName": "Soto",
+    "firstName": "Ashley ",
+    "lastName": "D. ",
     "image": {
         "type": "ImageBlock",
-        "url": "/images/about.jpg",
         "altText": "Doris Soto photo"
-    }
+    },
+    "role": "Problem Solver"
 }
