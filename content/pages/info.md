@@ -69,7 +69,7 @@ sections:
       - type: Label
         label: Problem Solving
       - type: Label
-        label: Swift
+        label: Learning SQL
   - type: DividerSection
     styles:
       self:
