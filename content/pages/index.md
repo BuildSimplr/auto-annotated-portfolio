@@ -15,9 +15,11 @@ sections:
     backgroundSize: full
     title: "I'M A SOLUTIONS ANALYST WHO KINDA TURNS  COMPLEX BUSINESS CHALLENGES INTO STREAMLINED,\_SCALABLE TECHNOLOGY SOLUTIONS.."
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Teamwork makes the Dream Work! Seven years of experience implementing
+      enterprise platforms, optimizing workflows, and collaborating with
+      stakeholders from executives to end users. I specialize in requirements
+      analysis, process improvement, and delivering measurable business
+      outcomes.
     styles:
       self:
         height: auto
